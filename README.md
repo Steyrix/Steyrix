@@ -5,7 +5,7 @@
 #### Here are my stats: 
 
 
-<div align = "center"; style="display: flex; flex-direction: column;">
+<div align-items="center"; style="display: flex; flex-direction: column;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Steyrix&show_icons=true&theme=tokyonight" />
  
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Steyrix&theme=tokyonight" alt="mystreak" />
