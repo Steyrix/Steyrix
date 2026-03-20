@@ -1,3 +1,3 @@
-<h2 align="center"> Hello Dear Colleagues, my name is Georgy 👋 </h2>
+<h2 align="center"> My name is Georgy 👋 </h2>
 
 ### I am an Android Developer and gamedev hobbyist.
